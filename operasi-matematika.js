@@ -7,7 +7,9 @@ module.exports = {
   // pengurangan
 
   // pembagian
-
+  divide: (a, b) => {
+    return a / b;
+  },
   // perkalian
 
   // modulo
